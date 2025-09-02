@@ -24,7 +24,7 @@ O objetivo foi explorar um dataset do **Kaggle** e responder perguntas de negóc
 
 ## 📸 Preview do Dashboard  
 
-![Dashboard Preview](./dashboard_preview.png)  
+![Dashboard Preview](Dashboard_Vendas/dashboard_preview.png)  
 
 ## 🚀 Resultados  
 Esse projeto me permitiu:  
